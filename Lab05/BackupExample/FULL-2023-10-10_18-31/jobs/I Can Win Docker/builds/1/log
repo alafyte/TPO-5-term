@@ -1,0 +1,41 @@
+Started by user [8mha:////4LCJm4AExqTC4hfivZCjhUYL4gzDUF0xcPMB0vYXYO2uAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZe/dLi1CL9xJzEtMqSVAACEM9uwgAAAA==[0mAlafyte
+Started by user [8mha:////4LCJm4AExqTC4hfivZCjhUYL4gzDUF0xcPMB0vYXYO2uAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZe/dLi1CL9xJzEtMqSVAACEM9uwgAAAA==[0mAlafyte
+Started by user [8mha:////4LCJm4AExqTC4hfivZCjhUYL4gzDUF0xcPMB0vYXYO2uAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZe/dLi1CL9xJzEtMqSVAACEM9uwgAAAA==[0mAlafyte
+Started by user [8mha:////4LCJm4AExqTC4hfivZCjhUYL4gzDUF0xcPMB0vYXYO2uAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZe/dLi1CL9xJzEtMqSVAACEM9uwgAAAA==[0mAlafyte
+??????? ?? ???????
+??????? ?? ???????
+??????? ?? ???????
+??????? ?? ???????
+??????? ?? ???????
+??????? ?? ???????
+??????? ?? ???????
+??????? ?? ???????
+??????? ?? ???????
+??????? ?? ???????
+??????? ?? ???????
+Running as SYSTEM
+?????????? ???????? ?? [8mha:////4IpdpFKnbCZ+6Z0VJfzzRKM+PXXx6qK3qTZJO+SDmfnLAAAArx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAytEgYV/eT83ILSktQi/ZT85OzUIt3inMSyVF0DICgytDQsNzBOyQcAY1QkqdkAAAA=[0mdocker-slave-0000r191w03do on Docker Cloud (docker-slave) in workspace /home/jenkins/workspace/I Can Win Docker
+The recommended git tool is: NONE
+No credentials specified
+Cloning the remote Git repository
+Cloning repository https://github.com/vitalliuss/helloci.git
+ > /usr/bin/git init /home/jenkins/workspace/I Can Win Docker # timeout=10
+Fetching upstream changes from https://github.com/vitalliuss/helloci.git
+ > /usr/bin/git --version # timeout=10
+ > git --version # 'git version 2.34.1'
+ > /usr/bin/git fetch --tags --force --progress -- https://github.com/vitalliuss/helloci.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > /usr/bin/git config remote.origin.url https://github.com/vitalliuss/helloci.git # timeout=10
+ > /usr/bin/git config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+Avoid second fetch
+ > /usr/bin/git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+Checking out Revision 71518a34152cb6c6039a2443ced60af30a31f14c (refs/remotes/origin/master)
+ > /usr/bin/git config core.sparsecheckout # timeout=10
+ > /usr/bin/git checkout -f 71518a34152cb6c6039a2443ced60af30a31f14c # timeout=10
+Commit message: "Merge pull request #16 from EvgeniyRozhenko/fix-pom-utf8"
+First time build. Skipping changelog.
+[I Can Win Docker] $ /usr/share/maven/bin/mvn -f Java/pom.xml test
+The JAVA_HOME environment variable is not defined correctly
+This environment variable is needed to run this program
+NB: JAVA_HOME should point to a JDK not a JRE
+Build step '??????? ???? Maven ???????? ??????  ' marked build as failure
+Finished: FAILURE

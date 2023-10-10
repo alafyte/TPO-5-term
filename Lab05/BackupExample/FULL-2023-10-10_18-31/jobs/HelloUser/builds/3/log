@@ -1,0 +1,10 @@
+Started by user [8mha:////4LCJm4AExqTC4hfivZCjhUYL4gzDUF0xcPMB0vYXYO2uAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZe/dLi1CL9xJzEtMqSVAACEM9uwgAAAA==[0mAlafyte
+Running as SYSTEM
+Building on the built-in node in workspace C:\ProgramData\Jenkins\.jenkins\workspace\HelloUser
+[HelloUser] $ cmd /c call C:\windows\TEMP\jenkins6191714044601068864.bat
+
+C:\ProgramData\Jenkins\.jenkins\workspace\HelloUser>echo Hello, Test! 
+Hello, Test!
+
+C:\ProgramData\Jenkins\.jenkins\workspace\HelloUser>exit 0 
+Finished: SUCCESS

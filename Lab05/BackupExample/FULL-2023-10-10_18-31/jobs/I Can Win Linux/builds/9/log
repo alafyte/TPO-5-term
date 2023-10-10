@@ -1,0 +1,31 @@
+Запущен по таймеру
+Запущен по таймеру
+Запущен по таймеру
+Запущен по таймеру
+Запущен по таймеру
+Запущен по таймеру
+Запущен по таймеру
+Running as SYSTEM
+Собирается удаленно на [8mha:////4DKGpJZf/rwk02uGCUVm/FnD8JVwjFMvX1pqLMgZG8K+AAAAmx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZ+/eT83ILSktQifZ/MvNIKAAt+35HEAAAA[0mLinux (lunux ubuntu) in workspace /home/blebb/TPO/Lab05/workspace/I Can Win Linux
+The recommended git tool is: NONE
+No credentials specified
+Wiping out workspace first.
+Cloning the remote Git repository
+Cloning repository https://github.com/vitalliuss/helloci.git
+ > /usr/bin/git init /home/blebb/TPO/Lab05/workspace/I Can Win Linux # timeout=10
+Fetching upstream changes from https://github.com/vitalliuss/helloci.git
+ > /usr/bin/git --version # timeout=10
+ > git --version # 'git version 2.34.1'
+ > /usr/bin/git fetch --tags --force --progress -- https://github.com/vitalliuss/helloci.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > /usr/bin/git config remote.origin.url https://github.com/vitalliuss/helloci.git # timeout=10
+ > /usr/bin/git config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+Avoid second fetch
+ > /usr/bin/git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+Checking out Revision 71518a34152cb6c6039a2443ced60af30a31f14c (refs/remotes/origin/master)
+ > /usr/bin/git config core.sparsecheckout # timeout=10
+ > /usr/bin/git checkout -f 71518a34152cb6c6039a2443ced60af30a31f14c # timeout=10
+Commit message: "Merge pull request #16 from EvgeniyRozhenko/fix-pom-utf8"
+ > /usr/bin/git rev-list --no-walk 71518a34152cb6c6039a2443ced60af30a31f14c # timeout=10
+FATAL: Не найдено исполняемых файлов в /usr/share/maven
+Build step 'Вызвать цели Maven верхнего уровня  ' marked build as failure
+Finished: FAILURE

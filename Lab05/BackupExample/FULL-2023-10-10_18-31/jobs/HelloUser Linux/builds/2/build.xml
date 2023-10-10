@@ -1,0 +1,48 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<build>
+  <actions>
+    <hudson.model.ParametersAction>
+      <safeParameters class="sorted-set"/>
+      <parameters>
+        <hudson.model.StringParameterValue>
+          <name>username</name>
+          <description>User name</description>
+          <value>Test</value>
+        </hudson.model.StringParameterValue>
+      </parameters>
+      <parameterDefinitionNames>
+        <string>username</string>
+      </parameterDefinitionNames>
+    </hudson.model.ParametersAction>
+    <hudson.model.CauseAction>
+      <causeBag class="linked-hash-map">
+        <entry>
+          <hudson.model.Cause_-UserIdCause>
+            <userId>alafyte</userId>
+          </hudson.model.Cause_-UserIdCause>
+          <int>1</int>
+        </entry>
+      </causeBag>
+    </hudson.model.CauseAction>
+    <hudson.plugins.jobConfigHistory.JobConfigBadgeAction plugin="jobConfigHistory@1229.v3039470161a_d">
+      <configDates>
+        <string>2023-10-09_19-19-27</string>
+        <string>2023-10-09_19-16-46</string>
+      </configDates>
+    </hudson.plugins.jobConfigHistory.JobConfigBadgeAction>
+  </actions>
+  <queueId>242</queueId>
+  <timestamp>1696868371942</timestamp>
+  <startTime>1696868371946</startTime>
+  <result>SUCCESS</result>
+  <duration>85</duration>
+  <charset>UTF-8</charset>
+  <keepLog>false</keepLog>
+  <builtOn>Linux</builtOn>
+  <workspace>/home/blebb/TPO/Lab05/workspace/HelloUser Linux</workspace>
+  <hudsonVersion>2.426</hudsonVersion>
+  <scm class="hudson.scm.NullChangeLogParser"/>
+  <culprits class="java.util.Collections$UnmodifiableSet">
+    <c class="sorted-set"/>
+  </culprits>
+</build>

@@ -1,0 +1,20 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<slave>
+  <name>DESKTOP-MFP40AR</name>
+  <description></description>
+  <remoteFS>C:\University\5_term\ТПО\Lab05\Slave</remoteFS>
+  <numExecutors>1</numExecutors>
+  <mode>EXCLUSIVE</mode>
+  <retentionStrategy class="hudson.slaves.RetentionStrategy$Always"/>
+  <launcher class="hudson.slaves.JNLPLauncher">
+    <workDirSettings>
+      <disabled>false</disabled>
+      <workDirPath>C:\University\5_term\ТПО\Lab05\Slave</workDirPath>
+      <internalDir>remoting</internalDir>
+      <failIfWorkDirIsMissing>false</failIfWorkDirIsMissing>
+    </workDirSettings>
+    <webSocket>false</webSocket>
+  </launcher>
+  <label>win10 x64</label>
+  <nodeProperties/>
+</slave>

@@ -1,0 +1,7 @@
+Started by user [8mha:////4LCJm4AExqTC4hfivZCjhUYL4gzDUF0xcPMB0vYXYO2uAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZe/dLi1CL9xJzEtMqSVAACEM9uwgAAAA==[0mAlafyte
+Running as SYSTEM
+?????????? ???????? ?? [8mha:////4OjydqlnFGXAe9DLrHnjZs1Vs3HokpWG66+LyNMNIoKhAAAArx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAytEgYV/eT83ILSktQi/ZT85OzUIt3inMSyVF0DIChOKUrJTS/JLwYAvKN8R9kAAAA=[0mdocker-slave-0000sdrdmgtos on Docker Cloud (docker-slave) in workspace /home/jenkins/workspace/HelloUser Docker
+[HelloUser Docker] $ /bin/sh -xe /tmp/jenkins15059709897826565769.sh
++ echo Hello, Test!
+Hello, Test!
+Finished: SUCCESS

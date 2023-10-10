@@ -1,0 +1,7 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<io.jenkins.plugins.prism.PrismConfiguration plugin="prism-api@1.29.0-8">
+  <sourceDirectories/>
+  <normalizedSourceDirectories/>
+  <theme>PRISM</theme>
+  <jenkins plugin="plugin-util-api@3.4.0"/>
+</io.jenkins.plugins.prism.PrismConfiguration>

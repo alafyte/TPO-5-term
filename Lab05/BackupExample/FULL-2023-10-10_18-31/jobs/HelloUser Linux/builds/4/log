@@ -1,0 +1,7 @@
+Started by user [8mha:////4LCJm4AExqTC4hfivZCjhUYL4gzDUF0xcPMB0vYXYO2uAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZe/dLi1CL9xJzEtMqSVAACEM9uwgAAAA==[0mAlafyte
+Running as SYSTEM
+Собирается удаленно на [8mha:////4DKGpJZf/rwk02uGCUVm/FnD8JVwjFMvX1pqLMgZG8K+AAAAmx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZ+/eT83ILSktQifZ/MvNIKAAt+35HEAAAA[0mLinux (lunux ubuntu) in workspace /home/blebb/TPO/Lab05/workspace/HelloUser Linux
+[HelloUser Linux] $ /bin/sh -xe /tmp/jenkins17085264307558328631.sh
++ echo Hello, User!
+Hello, User!
+Finished: SUCCESS
