@@ -1,0 +1,14 @@
+C:\University\5_term\ТПО\Lab07\Lab07\Calculator\bin\Debug\net6.0\Calculator.exe
+C:\University\5_term\ТПО\Lab07\Lab07\Calculator\bin\Debug\net6.0\Calculator.deps.json
+C:\University\5_term\ТПО\Lab07\Lab07\Calculator\bin\Debug\net6.0\Calculator.runtimeconfig.json
+C:\University\5_term\ТПО\Lab07\Lab07\Calculator\bin\Debug\net6.0\Calculator.dll
+C:\University\5_term\ТПО\Lab07\Lab07\Calculator\bin\Debug\net6.0\Calculator.pdb
+C:\University\5_term\ТПО\Lab07\Lab07\Calculator\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\University\5_term\ТПО\Lab07\Lab07\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+C:\University\5_term\ТПО\Lab07\Lab07\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+C:\University\5_term\ТПО\Lab07\Lab07\Calculator\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
+C:\University\5_term\ТПО\Lab07\Lab07\Calculator\obj\Debug\net6.0\Calculator.dll
+C:\University\5_term\ТПО\Lab07\Lab07\Calculator\obj\Debug\net6.0\refint\Calculator.dll
+C:\University\5_term\ТПО\Lab07\Lab07\Calculator\obj\Debug\net6.0\Calculator.pdb
+C:\University\5_term\ТПО\Lab07\Lab07\Calculator\obj\Debug\net6.0\Calculator.genruntimeconfig.cache
+C:\University\5_term\ТПО\Lab07\Lab07\Calculator\obj\Debug\net6.0\ref\Calculator.dll
