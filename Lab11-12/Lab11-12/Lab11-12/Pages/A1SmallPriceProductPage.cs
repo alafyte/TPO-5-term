@@ -38,13 +38,13 @@ namespace Lab11_12.Pages
 
         public A1SmallPriceProductPage GoToPage()
         {
-            _driver.Navigate().GoToUrl("https://www.a1.by/ru/shop/accessories/covers/Atomic/Atomic-SENSE-Galaxy-A12-Cover/sense-galaxy-a12-red/p/14.1014064");
+            _driver.Navigate().GoToUrl("https://www.a1.by/ru/shop/accessories/covers/Atomic/Atomic-SENSE-RedmiNote10-10s-C/sense-redmi-note-10/p/14.1014075");
             return this;
         }
 
         public A1SmallPriceProductPage CloseCookieBanner()
         {
-            IWebElement cookieCloseButton = _driver.FindElement(By.XPath("//*[@id=\"command\"]/div[3]/button[3]"));
+            IWebElement cookieCloseButton = _wait.Until(ExpectedConditions.ElementExists(By.XPath("//button/span[text() = 'Принять']/ancestor::button")));
             cookieCloseButton.Click();
             return this;
         }

@@ -26,7 +26,7 @@ namespace Lab11_12.Pages
 
         public A1ProductPage CloseCookieBanner()
         {
-            IWebElement cookieCloseButton = _driver.FindElement(By.XPath("//*[@id=\"command\"]/div[3]/button[3]"));
+            IWebElement cookieCloseButton = _wait.Until(ExpectedConditions.ElementExists(By.XPath("//button/span[text() = 'Принять']/ancestor::button")));
             cookieCloseButton.Click();
             return this;
         }
