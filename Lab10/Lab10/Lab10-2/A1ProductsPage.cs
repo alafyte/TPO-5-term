@@ -24,7 +24,7 @@ namespace Lab10_2
 
         public void CloseCookieBanner()
         {
-            IWebElement cookieCloseButton = _driver.FindElement(By.XPath("//*[@id=\"command\"]/div[3]/button[3]"));
+            IWebElement cookieCloseButton = _wait.Until(ExpectedConditions.ElementExists(By.XPath("//button/span[text() = 'Принять']/ancestor::button")));
             cookieCloseButton.Click();
         }
 
@@ -86,7 +86,7 @@ namespace Lab10_2
             {
                 string price = element.Text;
                 price = price.Replace(" ", "").Replace(",", ".");
-                if (!(float.Parse(price) >= priceFrom && float.Parse(price) <= priceTo))
+                if (price != "" && !(float.Parse(price) >= priceFrom && float.Parse(price) <= priceTo))
                 {
                     allContainRightPrice = false;
                     break;
