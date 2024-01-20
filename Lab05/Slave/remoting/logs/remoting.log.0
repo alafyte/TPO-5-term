@@ -1,27 +1,27 @@
-Oct 10, 2023 5:28:02 PM hudson.remoting.jnlp.Main createEngine
+Nov 23, 2023 5:28:40 PM hudson.remoting.jnlp.Main createEngine
 INFO: Setting up agent: DESKTOP-MFP40AR
-Oct 10, 2023 5:28:02 PM hudson.remoting.Engine startEngine
+Nov 23, 2023 5:28:40 PM hudson.remoting.Engine startEngine
 INFO: Using Remoting version: 3148.v532a_7e715ee3
-Oct 10, 2023 5:28:02 PM org.jenkinsci.remoting.engine.WorkDirManager initializeWorkDir
+Nov 23, 2023 5:28:40 PM org.jenkinsci.remoting.engine.WorkDirManager initializeWorkDir
 INFO: Using C:\University\5_term\ТПО\Lab05\Slave\remoting as a remoting work directory
-Oct 10, 2023 5:28:02 PM hudson.remoting.jnlp.Main$CuiListener status
+Nov 23, 2023 5:28:40 PM hudson.remoting.jnlp.Main$CuiListener status
 INFO: Locating server among [http://192.168.0.10:8081/]
-Oct 10, 2023 5:28:02 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver resolve
+Nov 23, 2023 5:28:40 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver resolve
 INFO: Remoting server accepts the following protocols: [JNLP4-connect, Ping]
-Oct 10, 2023 5:28:02 PM hudson.remoting.jnlp.Main$CuiListener status
+Nov 23, 2023 5:28:40 PM hudson.remoting.jnlp.Main$CuiListener status
 INFO: Agent discovery successful
   Agent address: 192.168.0.10
-  Agent port:    52775
+  Agent port:    56896
   Identity:      fe:18:2e:15:14:33:18:36:bf:c9:2d:2e:59:63:11:3c
-Oct 10, 2023 5:28:02 PM hudson.remoting.jnlp.Main$CuiListener status
+Nov 23, 2023 5:28:40 PM hudson.remoting.jnlp.Main$CuiListener status
 INFO: Handshaking
-Oct 10, 2023 5:28:02 PM hudson.remoting.jnlp.Main$CuiListener status
-INFO: Connecting to 192.168.0.10:52775
-Oct 10, 2023 5:28:02 PM hudson.remoting.jnlp.Main$CuiListener status
+Nov 23, 2023 5:28:40 PM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Connecting to 192.168.0.10:56896
+Nov 23, 2023 5:28:40 PM hudson.remoting.jnlp.Main$CuiListener status
 INFO: Trying protocol: JNLP4-connect
-Oct 10, 2023 5:28:02 PM org.jenkinsci.remoting.protocol.impl.BIONetworkLayer$Reader run
+Nov 23, 2023 5:28:40 PM org.jenkinsci.remoting.protocol.impl.BIONetworkLayer$Reader run
 INFO: Waiting for ProtocolStack to start.
-Oct 10, 2023 5:28:02 PM hudson.remoting.jnlp.Main$CuiListener status
+Nov 23, 2023 5:28:40 PM hudson.remoting.jnlp.Main$CuiListener status
 INFO: Remote identity confirmed: fe:18:2e:15:14:33:18:36:bf:c9:2d:2e:59:63:11:3c
-Oct 10, 2023 5:28:02 PM hudson.remoting.jnlp.Main$CuiListener status
+Nov 23, 2023 5:28:40 PM hudson.remoting.jnlp.Main$CuiListener status
 INFO: Connected
