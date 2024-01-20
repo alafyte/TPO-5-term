@@ -19,6 +19,7 @@ namespace GoogleCloudTests
             _driver.Manage().Window.Maximize();
         }
 
+        // Test was created for calculator legacy version
         [Test]
         public void HurtMePlentyTest()
         {

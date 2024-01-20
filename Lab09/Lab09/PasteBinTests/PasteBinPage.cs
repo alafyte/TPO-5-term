@@ -78,6 +78,7 @@ namespace PasteBinTests
 
         public string GetPageTitle()
         {
+            Thread.Sleep(1000);
             new WebDriverWait(driver, TimeSpan.FromSeconds(WAIT_TIMEOUT_SECONDS));
             return driver.Title;
         }

@@ -33,7 +33,7 @@ namespace PasteBinTests
                     .InputPasteName(pasteName)
                     .ClickButtonCreateNewPaste()
                     .GetPageTitle();
-            Assert.AreEqual(actualPageTitle, expectedPageTitle);
+            Assert.AreEqual(expectedPageTitle, actualPageTitle);
         }
 
         [Test]
@@ -55,7 +55,7 @@ namespace PasteBinTests
                     .InputPasteName(pasteName)
                     .ClickButtonCreateNewPaste()
                     .GetPageTitle();
-            Assert.AreEqual(actualPageTitle, expectedPageTitle);
+            Assert.AreEqual(expectedPageTitle, actualPageTitle);
         }
 
         [TearDown]
