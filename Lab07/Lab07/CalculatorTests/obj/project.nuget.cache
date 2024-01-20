@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "cdCOdgYN3NKCELp8zSDP/CBzKLaDn/MTIwF29qnVUYxJuzkgaMwtOMT7/hYTNxxeZO10P/CQitkYPml0jKMu0A==",
+  "dgSpecHash": "g6yDC5wbXp+Kd8azzHAsA/lH0Ot/8JaNCdHv4nOuedODotRMLXFon8ZEH1cZt+4UCxCdX85XvYlQAErQw3kU2w==",
   "success": true,
   "projectFilePath": "C:\\University\\5_term\\ТПО\\Lab07\\Lab07\\CalculatorTests\\CalculatorTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\blebb\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
+    "C:\\Users\\blebb\\.nuget\\packages\\coverlet.msbuild\\6.0.0\\coverlet.msbuild.6.0.0.nupkg.sha512",
     "C:\\Users\\blebb\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",
     "C:\\Users\\blebb\\.nuget\\packages\\microsoft.net.test.sdk\\17.5.0\\microsoft.net.test.sdk.17.5.0.nupkg.sha512",
     "C:\\Users\\blebb\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
